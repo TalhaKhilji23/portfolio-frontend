@@ -20,7 +20,7 @@ const ContactForm = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    const response = await fetch("https://portfoliobackend-5togy9scv-muhammad-talhas-projects-3a9c76c1.vercel.app/send", {
+    const response = await fetch("https://portfoliobackend-beta.vercel.app/send", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

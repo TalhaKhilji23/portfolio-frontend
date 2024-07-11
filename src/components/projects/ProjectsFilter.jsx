@@ -11,8 +11,7 @@ const ProjectsFilter = ({ setSelectProject }) => {
 				setSelectProject(e.target.value);
 			}}
 			className="font-general-medium 
-                px-4
-                sm:px-6
+                sm:px-2
                 py-2
                 border
                 dark:border-secondary-dark

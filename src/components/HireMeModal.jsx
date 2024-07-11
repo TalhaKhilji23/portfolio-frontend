@@ -32,7 +32,7 @@ const HireMeModal = ({ onClose, onRequest }) => {
 		console.log("form Data",formData)
 
 		try {
-			const response = await fetch('https://portfoliobackend-5togy9scv-muhammad-talhas-projects-3a9c76c1.vercel.app/sendMail', {
+			const response = await fetch('https://portfoliobackend-beta.vercel.app/sendMail', {
 				method: 'POST',
 				headers: {
 					'Content-Type': 'application/json',
