@@ -35,7 +35,7 @@ export const singleProjectData = {
   LandBlocks: {
     ProjectHeader: {
       title: "Blockchain-Based Real Estate App",
-      publishDate: "July 7, 2024",
+      publishDate: "Dec 21st, 2023",
       tags: "Blockchain / Real Estate / Smart Contracts",
     },
     ProjectImages: [
@@ -53,8 +53,7 @@ export const singleProjectData = {
           title: "Services",
           details: "Blockchain-based Real Estate Solutions",
         },
-        { id: 3, title: "Website", details: "https://landblocks.com" },
-        { id: 4, title: "Phone", details: "+923100674640" },
+        { id: 4, title: "Phone", details: "+923014345825" },
       ],
       ObjectivesHeading: "Objectives",
       ObjectivesDetails:
@@ -90,19 +89,13 @@ export const singleProjectData = {
             "User experience (UX) and scalability presented additional hurdles. Blockchain technology, while powerful, can introduce complexity for end-users, particularly those unfamiliar with the technology. Designing an intuitive and user-friendly interface that abstracts the complexities of blockchain interactions was crucial to ensure broader adoption of the app. This involved creating clear and straightforward workflows for tasks like wallet integration, transaction approval, and viewing blockchain data. Scalability was another pressing issue, as the app needed to handle a growing user base and increased transaction volume without compromising performance. Implementing scalable solutions within the MERN stack, such as efficient API design, load balancing, and leveraging cloud services for infrastructure, were essential steps to address these challenges and ensure Landblocks could grow and evolve effectively.",
         },
       ],
-      SocialSharingHeading: "Share This Project",
+      SocialSharingHeading: "",
       SocialSharing: [
         {
-          id: 1,
-          name: "Twitter",
-          icon: <FiTwitter />,
-          url: "https://twitter.com/landblocks",
+          
         },
         {
-          id: 2,
-          name: "LinkedIn",
-          icon: <FiLinkedin />,
-          url: "https://linkedin.com/company/landblocks",
+         
         },
       ],
     },
@@ -118,7 +111,7 @@ export const singleProjectData = {
   TabibiApp: {
     ProjectHeader: {
       title: "TabibiApp - Medical App for Doctor-Patient Interactions",
-      publishDate: "July 7, 2024",
+      publishDate: "July 7, 2023",
       tags: "Medical App / React Native / Firebase",
     },
     ProjectImages: [
@@ -136,8 +129,7 @@ export const singleProjectData = {
           title: "Services",
           details: "Medical App Development",
         },
-        { id: 3, title: "Website", details: "https://tabibi.com" },
-        { id: 4, title: "Phone", details: "+923100674640" },
+        { id: 4, title: "Phone", details: "+923014345825" },
       ],
       ObjectivesHeading: "Objectives",
       ObjectivesDetails:
@@ -172,19 +164,13 @@ export const singleProjectData = {
             "Scalability and performance optimization were critical considerations as well. As the user base grew, ensuring that the app remained responsive and could handle increasing loads without compromising performance was a constant challenge. This involved optimizing the React Native codebase, fine-tuning Firebase queries, and implementing efficient data caching strategies. Additionally, managing push notifications for appointment reminders, messages, and other critical updates required careful integration and testing to ensure reliability and timely delivery. These challenges necessitated a continuous process of monitoring, testing, and optimizing both the front-end and back-end components to ensure that Tabibi provided a reliable, high-quality experience for both doctors and patients.",
         },
       ],
-      SocialSharingHeading: "Share This Project",
+      SocialSharingHeading: "",
       SocialSharing: [
         {
-          id: 1,
-          name: "Twitter",
-          icon: <FiTwitter />,
-          url: "https://twitter.com/tabibi",
+          
         },
         {
-          id: 2,
-          name: "LinkedIn",
-          icon: <FiLinkedin />,
-          url: "https://linkedin.com/company/tabibi",
+         
         },
       ],
     },
@@ -200,7 +186,7 @@ export const singleProjectData = {
   ExtraMile: {
     ProjectHeader: {
       title: "Extra Mile - Car Spare Parts Mobile App",
-      publishDate: "July 8, 2024",
+      publishDate: "Sept 8, 2022",
       tags: "Car Spare Parts App / React Native / Firebase",
     },
     ProjectImages: [
@@ -218,8 +204,7 @@ export const singleProjectData = {
           title: "Services",
           details: "Automobile Spare Parts",
         },
-        { id: 3, title: "Website", details: "https://extramile.com" },
-        { id: 4, title: "Phone", details: "+923100674640" },
+        { id: 4, title: "Phone", details: "+923014345825" },
       ],
       ObjectivesHeading: "Objectives",
       ObjectivesDetails:
@@ -254,19 +239,13 @@ export const singleProjectData = {
             "Scalability and performance optimization were significant concerns, particularly as the app aimed to accommodate a growing user base and increasing transaction volumes. Optimizing Firebase queries, implementing efficient data caching strategies, and minimizing network latency were crucial for maintaining app responsiveness and reliability. Managing the synchronization of real-time data updates across users' devices, including inventory changes and cart updates, required meticulous attention to detail to prevent data inconsistencies and ensure a seamless user experience. Continuous monitoring and optimization of both the React Native frontend and Firebase backend were essential to address these challenges and ensure that ExtraMile could scale effectively while delivering a high-quality experience for users engaged in buying and selling car spare parts.",
         },
       ],
-      SocialSharingHeading: "Share This Project",
+      SocialSharingHeading: "",
       SocialSharing: [
         {
-          id: 1,
-          name: "Twitter",
-          icon: <FiTwitter />,
-          url: "https://twitter.com/extramile",
+          
         },
         {
-          id: 2,
-          name: "LinkedIn",
-          icon: <FiLinkedin />,
-          url: "https://linkedin.com/company/extramile",
+         
         },
       ],
     },
@@ -283,7 +262,7 @@ export const singleProjectData = {
     ProjectHeader: {
       title:
         "Real-Estate-Price-Prediction - Web App for Predicting Property Prices",
-      publishDate: "July 8, 2024",
+      publishDate: "May 27th, 2023",
       tags: "Real Estate / React / Flask / Machine Learning",
     },
     ProjectImages: [
@@ -300,8 +279,7 @@ export const singleProjectData = {
           title: "Services",
           details: "Property Price Prediction",
         },
-        { id: 3, title: "Website", details: "https://realestatepredictor.com" },
-        { id: 4, title: "Phone", details: "+923100674640" },
+        { id: 4, title: "Phone", details: "+923014345825" },
       ],
       ObjectivesHeading: "Objectives",
       ObjectivesDetails:
@@ -343,19 +321,13 @@ export const singleProjectData = {
             "Ensuring the web application is user-friendly and provides real-time predictions.",
         },
       ],
-      SocialSharingHeading: "Share This Project",
+      SocialSharingHeading: "",
       SocialSharing: [
         {
-          id: 1,
-          name: "Twitter",
-          icon: <FiTwitter />,
-          url: "https://twitter.com/realestatepredictor",
+          
         },
         {
-          id: 2,
-          name: "LinkedIn",
-          icon: <FiLinkedin />,
-          url: "https://linkedin.com/company/realestatepredictor",
+         
         },
       ],
     },
@@ -372,7 +344,7 @@ export const singleProjectData = {
   BlogsApp: {
     ProjectHeader: {
       title: "BlogsApp - Comprehensive Blogging Platform",
-      publishDate: "July 8, 2024",
+      publishDate: "June 25th, 2024",
       tags: "Blogging Platform / Next.js / AWS",
     },
     ProjectImages: [
@@ -388,8 +360,7 @@ export const singleProjectData = {
           title: "Services",
           details: "Blogging Platform Development",
         },
-        { id: 3, title: "Website", details: "https://blogtech.com" },
-        { id: 4, title: "Phone", details: "+923100674640" },
+        { id: 4, title: "Phone", details: "+923014345825" },
       ],
       ObjectivesHeading: "Objectives",
       ObjectivesDetails:
@@ -427,19 +398,13 @@ export const singleProjectData = {
             "The frontend development with Next.js and Tailwind CSS also presented its own set of challenges. Designing a responsive and user-friendly interface for managing and browsing blog posts required extensive use of Tailwind CSS for styling and layout. Implementing features like category-based search and dynamic rendering of blog content needed careful state management and efficient data fetching strategies to ensure a smooth user experience. Coordinating the frontend with the backend services to handle file uploads to S3 for blog images, sending email notifications using SES, and managing real-time updates through AppSync required robust and efficient integration. Balancing the performance and responsiveness of the frontend while ensuring seamless interaction with the complex backend infrastructure was a continuous challenge throughout the development process.",
         },
       ],
-      SocialSharingHeading: "Share This Project",
+      SocialSharingHeading: "",
       SocialSharing: [
         {
-          id: 1,
-          name: "Twitter",
-          icon: <FiTwitter />,
-          url: "https://twitter.com/blogtech",
+          
         },
         {
-          id: 2,
-          name: "LinkedIn",
-          icon: <FiLinkedin />,
-          url: "https://linkedin.com/company/blogtech",
+         
         },
       ],
     },
@@ -455,7 +420,7 @@ export const singleProjectData = {
   BarberApp: {
     ProjectHeader: {
       title: "BarberApp - Virtual Hair Try-On Application",
-      publishDate: "July 8, 2024",
+      publishDate: "May 21st, 2024",
       tags: "Virtual Try-On / React Native / Express",
     },
     ProjectImages: [
@@ -472,8 +437,7 @@ export const singleProjectData = {
           title: "Services",
           details: "Virtual Hair Try-On Development",
         },
-        { id: 3, title: "Website", details: "https://barbertech.com" },
-        { id: 4, title: "Phone", details: "+923100674640" },
+        { id: 4, title: "Phone", details: "+923014345825" },
       ],
       ObjectivesHeading: "Objectives",
       ObjectivesDetails:
@@ -513,19 +477,13 @@ export const singleProjectData = {
             "Maintaining data privacy and security for user-uploaded photos.",
         },
       ],
-      SocialSharingHeading: "Share This Project",
+      SocialSharingHeading: "",
       SocialSharing: [
         {
-          id: 1,
-          name: "Twitter",
-          icon: <FiTwitter />,
-          url: "https://twitter.com/barberapp",
+          
         },
         {
-          id: 2,
-          name: "LinkedIn",
-          icon: <FiLinkedin />,
-          url: "https://linkedin.com/company/barberapp",
+         
         },
       ],
     },
@@ -541,7 +499,7 @@ export const singleProjectData = {
   FaceAuthenticationApp: {
     ProjectHeader: {
       title: "FaceAuthenticationApp - Biometric Authentication Mobile App",
-      publishDate: "July 8, 2024",
+      publishDate: "Feb 11th, 2024",
       tags: "Biometric App / React Native / Express",
     },
     ProjectImages: [
@@ -558,8 +516,7 @@ export const singleProjectData = {
           title: "Services",
           details: "Biometric Authentication Development",
         },
-        { id: 3, title: "Website", details: "https://biometricsolutions.com" },
-        { id: 4, title: "Phone", details: "+923100674640" },
+        { id: 4, title: "Phone", details: "+923014345825" },
       ],
       ObjectivesHeading: "Objectives",
       ObjectivesDetails:
@@ -594,19 +551,13 @@ export const singleProjectData = {
             "The use of AWS Rekognition for facial image comparison introduced its own set of challenges. Ensuring the accuracy and reliability of facial recognition required fine-tuning the service to handle various image qualities and conditions, such as lighting variations and different angles of the faces. Furthermore, addressing privacy concerns and complying with data protection regulations was paramount, requiring the implementation of stringent data handling and user consent protocols. Balancing the need for high accuracy in facial recognition with the ethical considerations and legal requirements added another layer of complexity to the development process.",
         }
       ],
-      SocialSharingHeading: "Share This Project",
+      SocialSharingHeading: "",
       SocialSharing: [
         {
-          id: 1,
-          name: "Twitter",
-          icon: <FiTwitter />,
-          url: "https://twitter.com/biometricauthapp",
+          
         },
         {
-          id: 2,
-          name: "LinkedIn",
-          icon: <FiLinkedin />,
-          url: "https://linkedin.com/company/biometricauthapp",
+         
         },
       ],
     },
